@@ -1225,7 +1225,7 @@
       "relationships": [{
         "source": "source.ip",
         "target": "destination.ip",
-        "type": "connected to port {destination.port}"
+        "type": "connected to port {destination.idontexist}"
       }],
       "conditions": [{
           "field": "action.id",
